@@ -1,0 +1,8 @@
+esc two times d 
+ESC A
+ESC B
+int
+float
+str
+type('''python''')even & add 
+o or 1 bool
